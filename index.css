@@ -7,8 +7,18 @@
 
 
 h2 { 
-   position: absolute; 
+    position: absolute;
    top: 160px; 
+   left: 0; 
+   width: 100%; 
+    text-align:center;
+    color:aliceblue;
+    font-family: monospace;
+}
+
+h3 { 
+    position: absolute;
+   top: 195px; 
    left: 0; 
    width: 100%; 
     text-align:center;
