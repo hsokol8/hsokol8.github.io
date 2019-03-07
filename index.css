@@ -33,8 +33,10 @@ h1 {
 }
 
 .headshot {
-    width: 300px;
+    width: 250px;
     height: auto;
+    float:left;
+    margin-left: -270px;
 }
 
 .wrapper {
@@ -44,4 +46,32 @@ h1 {
 li {
   display: inline-block;
   list-style: none;
+}
+
+article {
+    clear: both;
+    overflow: hidden;
+    margin-bottom: 20px;
+    padding-left: 270px;
+}
+
+p3 {
+  color: grey;
+  font-family:Century Gothic,arial,sans-serif;
+}
+
+h5 {
+  color: lightcoral;
+  font-family:Century Gothic,arial,sans-serif;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: -20px;
+    font-size: 35px;
+}
+
+p{
+    text-transform: uppercase;
+    font-family: Century Gothic,arial,sans-serif;
+    font-weight: lighter;
 }
