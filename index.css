@@ -5,6 +5,7 @@
    width:inherits; /* for IE 6 */
 }
 
+
 h2 { 
    position: absolute; 
    top: 160px; 
@@ -29,4 +30,18 @@ h1 {
 .responsive {
     width: 100%;
     height: auto;
+}
+
+.headshot {
+    width: 50%;
+    height: auto;
+}
+
+.wrapper {
+  width:800px;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
 }
